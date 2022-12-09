@@ -1,0 +1,20 @@
+img{
+  width: 70px;
+}
+.box{
+  box-shadow: 0 0 5px rgba(62, 107, 255, 0.2);
+  border-radius: 10px;
+  padding: 12px;
+  margin: 15px 0;
+}
+.text{
+  padding: 13px 0 0 20px;
+}
+h5, p{
+  line-height: 1;
+  margin-bottom: 10px;
+}
+h5{font-size: 1.3rem}
+p{
+  color: #888;
+}
